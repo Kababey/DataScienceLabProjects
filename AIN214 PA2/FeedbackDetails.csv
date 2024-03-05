@@ -1,0 +1,601 @@
+FeedbackID,CustomerID,AirlineID,HotelID,Review
+3073,7498,6418.0,,Horrible experience with the seat.
+6658,6744,6418.0,,The cabin cleanliness was impressive.
+6149,8207,3233.0,,Decent experience with the cabin cleanliness.
+8198,9382,6418.0,,I found the in-flight entertainment to be average.
+8710,3067,2218.0,,The crew was average.
+2057,7498,2974.0,,Really enjoyed the horrible cabin cleanliness.
+3594,9174,5415.0,,I found the seat to be decent.
+3595,3158,2218.0,,I found the lounge to be impressive.
+8714,7492,9097.0,,I found the food to be impressive.
+8718,5393,6418.0,,The in-flight entertainment was terrible.
+7185,3335,8213.0,,Really enjoyed the excellent in-flight entertainment.
+3602,4694,8533.0,,The seat was decent.
+5652,9445,6418.0,,The service was good.
+6677,6003,6418.0,,Terrible experience with the seat.
+6678,6723,2218.0,,Was not impressed with the boarding process.
+2071,9439,8213.0,,I found the legroom to be terrible.
+3095,4362,3233.0,,Really enjoyed the average lounge.
+5145,8651,2218.0,,Really enjoyed the fantastic cabin cleanliness.
+9242,9382,8533.0,,Decent experience with the seat.
+4635,8379,5415.0,,Fantastic experience with the seat.
+7700,5716,2974.0,,Was not impressed with the lounge.
+2589,6570,8863.0,,I found the seat to be terrible.
+9757,5448,2218.0,,Was not impressed with the legroom.
+8735,8410,2218.0,,Really enjoyed the fantastic legroom.
+2591,9291,5415.0,,Was not impressed with the service.
+7713,6442,6418.0,,Really enjoyed the terrible boarding process.
+4638,9649,2974.0,,Really enjoyed the average boarding process.
+2083,9410,8863.0,,Average experience with the lounge.
+6692,1045,8533.0,,The crew was fantastic.
+9765,3874,8213.0,,Was not impressed with the in-flight entertainment.
+3622,6921,2218.0,,Was not impressed with the in-flight entertainment.
+7718,9649,2974.0,,Great experience with the service.
+5668,5679,2974.0,,I found the in-flight entertainment to be impressive.
+4136,3292,5415.0,,Average experience with the seat.
+3623,8214,4815.0,,The service was fantastic.
+4651,9344,6418.0,,Was not impressed with the food.
+5676,8207,6418.0,,Average experience with the flight punctuality.
+1069,3820,2218.0,,Really enjoyed the great food.
+4658,9439,8533.0,,The in-flight entertainment was decent.
+1588,8044,8213.0,,Was not impressed with the crew.
+4660,3568,8533.0,,The food was horrible.
+2616,3550,4815.0,,Poor experience with the boarding process.
+8249,3346,2974.0,,Poor experience with the food.
+3641,2430,2974.0,,Was not impressed with the boarding process.
+7227,4609,6418.0,,Fantastic experience with the service.
+8254,5999,8213.0,,Was not impressed with the service.
+3135,2123,6418.0,,Really enjoyed the horrible service.
+2112,6407,4815.0,,Really enjoyed the great seat.
+1602,4290,3233.0,,The seat was decent.
+1604,4567,4815.0,,Terrible experience with the boarding process.
+4165,9220,8213.0,,Was not impressed with the in-flight entertainment.
+8773,5673,8863.0,,The in-flight entertainment was fantastic.
+9287,7628,2218.0,,The lounge was good.
+1096,9764,2218.0,,Was not impressed with the flight punctuality.
+3144,1548,8863.0,,Good experience with the in-flight entertainment.
+5194,6117,8533.0,,Great experience with the in-flight entertainment.
+7755,9527,6418.0,,Was not impressed with the service.
+5708,7191,4815.0,,The in-flight entertainment was horrible.
+4168,7044,5415.0,,I found the food to be terrible.
+8782,3139,2218.0,,Really enjoyed the excellent lounge.
+1612,1898,4815.0,,Average experience with the crew.
+7245,8150,8863.0,,Horrible experience with the crew.
+7246,2479,6418.0,,Was not impressed with the in-flight entertainment.
+6230,5796,4815.0,,Really enjoyed the horrible boarding process.
+2134,8292,8533.0,,I found the seat to be terrible.
+3673,5506,6418.0,,I found the service to be fantastic.
+8794,5238,8863.0,,Was not impressed with the in-flight entertainment.
+1114,6946,8863.0,,Fantastic experience with the crew.
+7260,8955,5415.0,,I found the food to be great.
+1630,5716,9097.0,,The in-flight entertainment was average.
+5727,3242,8863.0,,Impressive experience with the cabin cleanliness.
+6752,7191,6418.0,,I found the crew to be excellent.
+8801,7808,9097.0,,Was not impressed with the legroom.
+3171,7180,8863.0,,The seat was average.
+1124,8538,2974.0,,The service was impressive.
+4200,9402,2974.0,,The food was impressive.
+8808,7044,2218.0,,I found the cabin cleanliness to be average.
+7274,5725,4815.0,,Was not impressed with the in-flight entertainment.
+7275,2123,4815.0,,The service was good.
+6764,7163,5415.0,,Horrible experience with the boarding process.
+3693,6599,9097.0,,Average experience with the cabin cleanliness.
+8307,5414,8863.0,,Decent experience with the seat.
+3701,1871,4815.0,,Was not impressed with the crew.
+1142,2322,3233.0,,Really enjoyed the decent boarding process.
+9334,1973,4815.0,,I found the in-flight entertainment to be good.
+1147,4334,2974.0,,The cabin cleanliness was impressive.
+6268,4980,8533.0,,The seat was decent.
+8320,7984,8533.0,,Was not impressed with the lounge.
+9858,1548,8533.0,,The lounge was poor.
+8834,9796,6418.0,,The lounge was poor.
+4229,5562,2218.0,,I found the flight punctuality to be great.
+1159,3306,8213.0,,Really enjoyed the good cabin cleanliness.
+2183,8292,8213.0,,Average experience with the in-flight entertainment.
+4745,5399,3233.0,,Was not impressed with the seat.
+3726,5304,8533.0,,Fantastic experience with the legroom.
+2703,4681,2974.0,,Really enjoyed the impressive lounge.
+6288,7798,9097.0,,The service was good.
+5117,6470,4815.0,,The food was horrible.
+3218,3523,9097.0,,Was not impressed with the service.
+2706,9258,9097.0,,Really enjoyed the poor seat.
+8340,2496,2218.0,,I found the flight punctuality to be average.
+5270,2764,8213.0,,Average experience with the crew.
+3223,1270,5415.0,,Really enjoyed the decent cabin cleanliness.
+2714,7071,2218.0,,Was not impressed with the cabin cleanliness.
+2716,6337,4815.0,,Great experience with the boarding process.
+1180,2840,2218.0,,Horrible experience with the food.
+1692,9085,8533.0,,Really enjoyed the great legroom.
+9887,4901,9097.0,,I found the flight punctuality to be good.
+8866,8188,3233.0,,The lounge was great.
+5795,4122,2218.0,,Was not impressed with the boarding process.
+5284,2536,9097.0,,Was not impressed with the cabin cleanliness.
+7843,1219,3233.0,,The lounge was great.
+4266,9085,3233.0,,The legroom was impressive.
+2218,2004,8533.0,,I found the service to be good.
+3245,6094,5415.0,,Really enjoyed the impressive service.
+7853,2016,4815.0,,The food was impressive.
+8880,3877,2974.0,,The legroom was impressive.
+4790,4353,5415.0,,Really enjoyed the poor flight punctuality.
+5303,6957,8213.0,,The lounge was terrible.
+3772,9085,2974.0,,Was not impressed with the seat.
+9921,3699,9097.0,,I found the lounge to be average.
+6337,8046,4815.0,,Impressive experience with the cabin cleanliness.
+2757,4242,5415.0,,Was not impressed with the flight punctuality.
+8905,3727,9097.0,,Was not impressed with the in-flight entertainment.
+3792,1993,5415.0,,Really enjoyed the impressive flight punctuality.
+6866,2123,2974.0,,I found the in-flight entertainment to be great.
+7891,6260,2974.0,,I found the seat to be good.
+7379,5682,4815.0,,I found the lounge to be decent.
+4309,3022,6418.0,,The in-flight entertainment was horrible.
+8406,5015,9097.0,,Really enjoyed the average service.
+6360,9491,9097.0,,I found the service to be great.
+1246,5085,6418.0,,Was not impressed with the crew.
+2782,8949,9097.0,,The lounge was fantastic.
+7392,4399,6418.0,,The legroom was impressive.
+7677,9244,9097.0,,I found the lounge to be excellent.
+2786,4922,8213.0,,Fantastic experience with the in-flight entertainment.
+7906,1779,6418.0,,Great experience with the food.
+8420,1462,8533.0,,I found the in-flight entertainment to be fantastic.
+1764,9342,4815.0,,The crew was fantastic.
+4325,1933,4815.0,,Was not impressed with the seat.
+9959,9616,4815.0,,Was not impressed with the food.
+5348,1229,5415.0,,The service was terrible.
+5864,1759,8533.0,,The flight punctuality was terrible.
+1260,2919,2218.0,,I found the boarding process to be impressive.
+2285,1200,8863.0,,Really enjoyed the good legroom.
+3821,2284,5415.0,,Impressive experience with the boarding process.
+9967,5967,8533.0,,Was not impressed with the boarding process.
+5873,8799,4815.0,,I found the lounge to be horrible.
+9458,5417,8863.0,,I found the flight punctuality to be impressive.
+9459,7794,3233.0,,Terrible experience with the service.
+6387,1094,5415.0,,Really enjoyed the excellent cabin cleanliness.
+8947,8942,4815.0,,Was not impressed with the lounge.
+5363,8480,8533.0,,Terrible experience with the food.
+3830,5649,2974.0,,Was not impressed with the lounge.
+6904,3550,2974.0,,The seat was poor.
+9465,4777,8863.0,,The cabin cleanliness was impressive.
+4858,1993,8533.0,,The boarding process was horrible.
+2299,4764,6418.0,,Average experience with the food.
+1278,5580,5415.0,,Was not impressed with the crew.
+1280,7719,2218.0,,Excellent experience with the flight punctuality.
+6406,4586,4815.0,,The flight punctuality was excellent.
+2827,6148,9097.0,,Really enjoyed the horrible in-flight entertainment.
+7950,8839,9097.0,,I found the lounge to be decent.
+7439,4506,5415.0,,Really enjoyed the terrible seat.
+9998,7794,4815.0,,Was not impressed with the in-flight entertainment.
+6417,1351,5415.0,,Was not impressed with the legroom.
+7954,5074,8533.0,,The boarding process was great.
+1299,1572,6418.0,,The legroom was impressive.
+7444,3346,4815.0,,I found the crew to be poor.
+6421,9575,2218.0,,The cabin cleanliness was good.
+2838,9147,2218.0,,The legroom was horrible.
+6424,4242,8213.0,,I found the crew to be great.
+8984,5312,8533.0,,The boarding process was fantastic.
+1306,2430,4815.0,,Really enjoyed the terrible food.
+4890,5047,2974.0,,I found the legroom to be excellent.
+9500,4588,3233.0,,I found the food to be horrible.
+6425,2004,2974.0,,Horrible experience with the cabin cleanliness.
+8989,7837,6418.0,,I found the boarding process to be impressive.
+5921,2391,6418.0,,The seat was great.
+7970,6930,2974.0,,I found the legroom to be excellent.
+4390,2686,2218.0,,Really enjoyed the decent cabin cleanliness.
+3367,9354,9097.0,,Really enjoyed the excellent service.
+9000,2496,3233.0,,The seat was horrible.
+5417,9174,4815.0,,Really enjoyed the horrible flight punctuality.
+4906,6853,8863.0,,Was not impressed with the crew.
+2856,9085,2974.0,,I found the in-flight entertainment to be fantastic.
+6439,8511,5415.0,,I found the lounge to be average.
+3370,7680,3233.0,,Really enjoyed the fantastic crew.
+3374,4149,8533.0,,Excellent experience with the boarding process.
+5423,5101,8863.0,,The boarding process was great.
+4912,8271,9097.0,,Excellent experience with the crew.
+7475,9698,3233.0,,Really enjoyed the poor lounge.
+7476,4567,8213.0,,I found the boarding process to be terrible.
+3893,1891,9097.0,,Really enjoyed the excellent crew.
+1848,1200,5415.0,,I found the lounge to be poor.
+7993,6671,8533.0,,Really enjoyed the good food.
+9018,5834,3233.0,,Great experience with the seat.
+1336,5970,8863.0,,The cabin cleanliness was great.
+3389,4317,2974.0,,The seat was decent.
+2882,8214,4815.0,,I found the lounge to be fantastic.
+3906,1385,2974.0,,The lounge was fantastic.
+6469,7888,8533.0,,The boarding process was fantastic.
+9544,8492,6418.0,,Fantastic experience with the seat.
+4424,9642,2218.0,,Really enjoyed the decent seat.
+1355,3665,9097.0,,Really enjoyed the horrible food.
+3915,8511,5415.0,,The cabin cleanliness was impressive.
+1361,5686,9097.0,,Was not impressed with the lounge.
+1362,3618,8533.0,,The crew was horrible.
+1364,3514,2974.0,,Was not impressed with the in-flight entertainment.
+4437,2479,4815.0,,Was not impressed with the service.
+5977,1229,4815.0,,I found the legroom to be poor.
+7514,5875,2218.0,,Fantastic experience with the boarding process.
+8029,1241,2974.0,,Decent experience with the crew.
+1886,3022,8863.0,,The service was excellent.
+7518,2303,8533.0,,I found the service to be excellent.
+9567,2467,3233.0,,The service was excellent.
+3937,8955,8533.0,,Great experience with the flight punctuality.
+5986,7439,6418.0,,The crew was terrible.
+1379,1385,4815.0,,The flight punctuality was great.
+1380,9437,8533.0,,Impressive experience with the seat.
+4964,5011,2974.0,,The crew was average.
+4966,3665,2218.0,,The cabin cleanliness was horrible.
+9575,6134,8213.0,,The legroom was great.
+9064,5393,8863.0,,I found the seat to be terrible.
+3945,8575,4815.0,,I found the seat to be excellent.
+1383,9174,4815.0,,Great experience with the cabin cleanliness.
+2403,7680,6418.0,,The flight punctuality was poor.
+4974,8096,2974.0,,The cabin cleanliness was average.
+2926,3982,9097.0,,Really enjoyed the decent in-flight entertainment.
+8048,3209,3233.0,,Really enjoyed the poor legroom.
+8560,4353,3233.0,,The service was excellent.
+8049,7719,6418.0,,Was not impressed with the flight punctuality.
+9072,6744,8863.0,,Decent experience with the flight punctuality.
+1396,4160,8213.0,,Terrible experience with the boarding process.
+3441,3550,8863.0,,I found the lounge to be decent.
+6007,3624,6418.0,,Horrible experience with the crew.
+7550,8247,3233.0,,Really enjoyed the good food.
+7552,3020,2218.0,,I found the crew to be average.
+3969,2591,5415.0,,Really enjoyed the good in-flight entertainment.
+4485,8293,8533.0,,The food was impressive.
+1414,7036,4815.0,,The crew was decent.
+1929,2482,6418.0,,Really enjoyed the poor boarding process.
+6537,4531,3233.0,,I found the service to be terrible.
+1419,6820,2974.0,,Fantastic experience with the in-flight entertainment.
+3982,2468,8863.0,,Was not impressed with the cabin cleanliness.
+6032,9497,6418.0,,Was not impressed with the flight punctuality.
+3476,2080,8533.0,,Really enjoyed the good food.
+7574,2322,3233.0,,The seat was fantastic.
+9112,8942,3233.0,,Was not impressed with the food.
+3482,3982,6418.0,,Was not impressed with the lounge.
+8602,4980,4815.0,,I found the service to be impressive.
+7581,6646,4815.0,,I found the seat to be decent.
+2975,6592,6418.0,,I found the lounge to be average.
+6563,1085,6418.0,,Really enjoyed the decent food.
+8099,4734,8533.0,,Poor experience with the legroom.
+2473,5559,2974.0,,I found the seat to be impressive.
+6580,6024,4815.0,,I found the legroom to be terrible.
+5560,8380,3233.0,,Really enjoyed the fantastic seat.
+6073,6734,4815.0,,Decent experience with the crew.
+3001,3454,4815.0,,The in-flight entertainment was impressive.
+6588,7932,9097.0,,I found the crew to be impressive.
+5053,4253,5415.0,,I found the food to be horrible.
+9667,5279,4815.0,,Really enjoyed the poor cabin cleanliness.
+6599,4694,3233.0,,Really enjoyed the impressive service.
+9672,4761,8213.0,,I found the service to be fantastic.
+6089,9399,8863.0,,I found the boarding process to be terrible.
+6602,5433,8213.0,,Poor experience with the in-flight entertainment.
+9168,6734,6418.0,,Was not impressed with the crew.
+8145,9085,8533.0,,The cabin cleanliness was fantastic.
+3025,9029,3233.0,,I found the crew to be poor.
+9172,9180,9097.0,,I found the service to be good.
+7637,9399,8533.0,,Was not impressed with the crew.
+7638,8416,2974.0,,Was not impressed with the boarding process.
+5591,9147,3233.0,,The flight punctuality was average.
+8152,5595,8213.0,,Was not impressed with the crew.
+7645,5524,5415.0,,Excellent experience with the lounge.
+1501,8096,3233.0,,Was not impressed with the food.
+7135,3696,8213.0,,I found the in-flight entertainment to be good.
+5600,8410,8533.0,,Excellent experience with the food.
+8675,9796,5415.0,,The legroom was terrible.
+1507,9347,3233.0,,The in-flight entertainment was good.
+5093,6383,9097.0,,The boarding process was terrible.
+6120,5377,8533.0,,Was not impressed with the food.
+9193,5017,4815.0,,The service was average.
+5098,8702,4815.0,,Was not impressed with the seat.
+3563,3696,8213.0,,Really enjoyed the average seat.
+7660,9716,9097.0,,Good experience with the lounge.
+4677,6570,8213.0,,The legroom was impressive.
+7150,6861,4815.0,,The flight punctuality was impressive.
+6122,4126,2974.0,,I found the crew to be decent.
+5104,1779,8863.0,,Really enjoyed the average boarding process.
+3567,9029,2974.0,,Was not impressed with the crew.
+7661,7080,4815.0,,Terrible experience with the flight punctuality.
+3571,5524,3233.0,,The lounge was horrible.
+4595,3047,3233.0,,Was not impressed with the service.
+5621,8966,4815.0,,Really enjoyed the great crew.
+8694,6094,3233.0,,Decent experience with the cabin cleanliness.
+1527,5679,9097.0,,The legroom was average.
+4604,4659,5415.0,,Terrible experience with the crew.
+8701,4362,4815.0,,Impressive experience with the cabin cleanliness.
+2050,4317,,3378.0,Really enjoyed the terrible gym.
+7171,6383,,4340.0,Really enjoyed the decent view.
+9221,8379,,6234.0,Really enjoyed the excellent pool.
+2566,8651,,7742.0,Really enjoyed the horrible gym.
+9736,4196,,4927.0,Poor experience with the lobby.
+9737,8010,,3678.0,Terrible experience with the breakfast.
+6668,8284,,9627.0,Was not impressed with the lobby.
+2063,1751,,6064.0,I found the pool to be average.
+2575,7685,,2525.0,Horrible experience with the gym.
+7185,9954,,8281.0,I found the pool to be terrible.
+3603,7999,,1919.0,I found the staff to be terrible.
+9747,2831,,5346.0,Really enjoyed the excellent amenity.
+9238,7888,,4340.0,Really enjoyed the poor pool.
+8733,4953,,7675.0,I found the gym to be great.
+2079,5238,,1647.0,I found the gym to be terrible.
+8226,6470,,6925.0,Was not impressed with the lobby.
+4643,8839,,4147.0,I found the amenity to be excellent.
+4130,1229,,5346.0,Was not impressed with the gym.
+1574,3957,,4781.0,The location was average.
+5671,7351,,6234.0,Was not impressed with the lobby.
+8746,1891,,9627.0,Really enjoyed the horrible room.
+6186,7153,,9177.0,The gym was excellent.
+9773,9642,,3096.0,Was not impressed with the pool.
+3117,8247,,4024.0,Fantastic experience with the location.
+2095,9085,,4147.0,Really enjoyed the good location.
+6191,9073,,4365.0,Really enjoyed the horrible gym.
+9265,7311,,5939.0,Really enjoyed the decent room.
+9266,4681,,4340.0,Was not impressed with the service.
+2611,6003,,4733.0,Really enjoyed the poor staff.
+6197,1851,,8281.0,The view was excellent.
+1590,6710,,3378.0,I found the amenity to be decent.
+6710,3874,,4365.0,Impressive experience with the pool.
+7224,7500,,2206.0,Was not impressed with the pool.
+9785,6545,,2049.0,Really enjoyed the impressive service.
+5685,5524,,5991.0,I found the staff to be poor.
+5179,1766,,6921.0,I found the location to be impressive.
+7229,5038,,4656.0,Was not impressed with the view.
+6206,4196,,9529.0,I found the location to be excellent.
+8767,7347,,2504.0,Really enjoyed the decent breakfast.
+2622,9010,,6879.0,Really enjoyed the excellent view.
+3650,4962,,7414.0,I found the room to be good.
+5699,7311,,5346.0,The amenity was decent.
+7238,3258,,1610.0,I found the service to be fantastic.
+6727,2479,,3670.0,Really enjoyed the excellent gym.
+5705,9382,,4024.0,I found the service to be terrible.
+1611,3309,,6925.0,Average experience with the staff.
+2123,9002,,8617.0,Was not impressed with the gym.
+2125,6012,,4857.0,Was not impressed with the gym.
+2126,5682,,4733.0,I found the room to be impressive.
+5195,3067,,3096.0,The gym was impressive.
+5712,8702,,2035.0,The gym was good.
+3668,7311,,6234.0,I found the service to be poor.
+9813,8492,,3096.0,I found the lobby to be terrible.
+7257,7122,,7704.0,Really enjoyed the impressive lobby.
+8796,8651,,1647.0,Was not impressed with the service.
+4706,1813,,4857.0,Great experience with the service.
+4195,8799,,3378.0,Decent experience with the service.
+5733,3618,,5095.0,The service was average.
+9831,4353,,1610.0,Impressive experience with the view.
+4200,7111,,4733.0,Was not impressed with the view.
+6762,3482,,3107.0,Was not impressed with the breakfast.
+6250,5038,,4024.0,Was not impressed with the staff.
+5229,1241,,8617.0,Was not impressed with the location.
+7278,4531,,9177.0,Impressive experience with the view.
+6770,6570,,4857.0,The staff was fantastic.
+3186,1094,,1647.0,Was not impressed with the staff.
+8823,6145,,3107.0,I found the breakfast to be poor.
+9853,7297,,9177.0,I found the service to be horrible.
+7294,7273,,9529.0,I found the breakfast to be poor.
+5758,1006,,6064.0,Really enjoyed the decent service.
+4736,5343,,5994.0,Horrible experience with the breakfast.
+7297,4253,,4340.0,Was not impressed with the location.
+4221,4933,,7704.0,Decent experience with the view.
+7295,7492,,9177.0,The amenity was horrible.
+5760,8292,,1919.0,Fantastic experience with the amenity.
+6793,9764,,2049.0,Was not impressed with the lobby.
+4233,1085,,8617.0,I found the lobby to be average.
+2697,4468,,4024.0,Terrible experience with the lobby.
+3723,9180,,8577.0,Was not impressed with the gym.
+1674,4681,,6921.0,The location was poor.
+9870,1872,,2504.0,Was not impressed with the amenity.
+2703,7163,,5991.0,I found the staff to be impressive.
+9872,9979,,7284.0,The room was poor.
+9361,5279,,4340.0,The view was impressive.
+7827,6470,,7704.0,The amenity was impressive.
+3220,2321,,1513.0,Average experience with the view.
+1173,5559,,2769.0,Horrible experience with the service.
+4756,8538,,9627.0,Really enjoyed the terrible lobby.
+2199,6106,,5095.0,Really enjoyed the poor staff.
+7832,7329,,2504.0,The pool was horrible.
+5784,4065,,7284.0,The staff was terrible.
+6296,4290,,2035.0,Excellent experience with the lobby.
+2204,1851,,4024.0,The view was good.
+4253,6470,,7742.0,Decent experience with the location.
+7325,9441,,6234.0,The service was fantastic.
+5792,3346,,3107.0,I found the room to be good.
+3745,6148,,4024.0,Was not impressed with the gym.
+2723,3727,,1647.0,The service was impressive.
+4772,8081,,7428.0,Really enjoyed the terrible lobby.
+1701,4506,,5994.0,Really enjoyed the decent breakfast.
+4774,9527,,7704.0,Really enjoyed the good breakfast.
+5799,1462,,6921.0,The staff was poor.
+8871,4694,,3107.0,Decent experience with the lobby.
+6825,6847,,6234.0,Good experience with the gym.
+5290,9661,,7675.0,Was not impressed with the view.
+5805,7806,,1464.0,Really enjoyed the terrible service.
+6319,9796,,1513.0,Horrible experience with the view.
+5296,7932,,4340.0,I found the location to be terrible.
+6320,2482,,7675.0,Really enjoyed the good pool.
+9394,7806,,4927.0,Really enjoyed the impressive lobby.
+6834,2310,,7284.0,I found the breakfast to be fantastic.
+7861,9002,,1513.0,The amenity was poor.
+4277,4204,,8281.0,I found the room to be decent.
+9912,5393,,3096.0,I found the pool to be poor.
+2746,7072,,2049.0,Really enjoyed the terrible amenity.
+5818,6145,,7428.0,The staff was impressive.
+4796,2218,,8596.0,Really enjoyed the horrible location.
+1212,3346,,4147.0,Was not impressed with the lobby.
+7358,8391,,3678.0,I found the pool to be good.
+1726,5970,,2206.0,Impressive experience with the lobby.
+9919,1551,,6921.0,Really enjoyed the excellent view.
+6845,5649,,3096.0,I found the location to be horrible.
+3778,3957,,2049.0,The gym was decent.
+8902,6531,,8617.0,I found the view to be good.
+7367,7191,,7704.0,Excellent experience with the location.
+6856,2496,,4024.0,I found the room to be impressive.
+2249,5101,,3670.0,Was not impressed with the amenity.
+9931,4761,,7512.0,Really enjoyed the average lobby.
+3276,5161,,7428.0,Horrible experience with the pool.
+2252,9972,,1513.0,The amenity was great.
+8909,1898,,8577.0,The breakfast was horrible.
+5839,6545,,1610.0,Poor experience with the service.
+2768,4009,,8281.0,Really enjoyed the good room.
+4814,6156,,1610.0,I found the service to be average.
+4824,8010,,3378.0,I found the gym to be fantastic.
+9433,6337,,7704.0,I found the pool to be good.
+7388,7685,,2769.0,Really enjoyed the poor amenity.
+8928,4485,,1610.0,Was not impressed with the service.
+4835,9661,,1610.0,Fantastic experience with the service.
+1767,8380,,4781.0,Horrible experience with the lobby.
+2283,4783,,3678.0,The room was good.
+6380,5074,,7675.0,The amenity was decent.
+5869,7122,,9529.0,Impressive experience with the location.
+3821,3890,,6879.0,The gym was good.
+1263,5993,,9529.0,I found the pool to be good.
+8431,4609,,7414.0,The gym was excellent.
+6386,1548,,4656.0,I found the amenity to be impressive.
+3316,1527,,4656.0,I found the gym to be impressive.
+9973,8292,,3670.0,I found the amenity to be terrible.
+6902,5506,,4365.0,The location was excellent.
+6392,5740,,9177.0,Was not impressed with the service.
+5370,6930,,4656.0,Was not impressed with the location.
+1789,6723,,2206.0,Good experience with the pool.
+1278,4681,,1513.0,Really enjoyed the impressive pool.
+5373,1462,,7512.0,Horrible experience with the gym.
+1279,9244,,2525.0,Really enjoyed the decent amenity.
+9476,3952,,7742.0,Horrible experience with the lobby.
+9989,3923,,4147.0,Really enjoyed the fantastic pool.
+5894,5838,,4365.0,I found the pool to be terrible.
+3336,6612,,5346.0,Was not impressed with the breakfast.
+6921,7080,,3378.0,Fantastic experience with the lobby.
+8969,6646,,8577.0,Was not impressed with the location.
+6411,3952,,4024.0,The amenity was great.
+7948,3727,,4927.0,Was not impressed with the lobby.
+2317,1872,,5939.0,Really enjoyed the fantastic room.
+4366,2468,,1647.0,The view was excellent.
+2312,9497,,4857.0,Really enjoyed the impressive gym.
+4881,1551,,3096.0,I found the amenity to be good.
+3345,2924,,8281.0,Good experience with the gym.
+7956,6581,,1919.0,I found the staff to be poor.
+2327,7116,,1464.0,Decent experience with the pool.
+5399,6930,,4857.0,Was not impressed with the gym.
+6939,5970,,7742.0,I found the location to be excellent.
+2845,3209,,2525.0,I found the location to be horrible.
+5919,7310,,3096.0,Horrible experience with the view.
+5921,7498,,3096.0,Was not impressed with the pool.
+8993,7685,,3107.0,Horrible experience with the pool.
+8481,4110,,3378.0,Really enjoyed the impressive room.
+1829,9328,,7414.0,Was not impressed with the gym.
+9000,5673,,4857.0,I found the gym to be excellent.
+7464,6260,,8617.0,Fantastic experience with the pool.
+2859,5414,,7512.0,The room was good.
+5932,4149,,6921.0,The lobby was good.
+8492,9081,,4365.0,The amenity was terrible.
+6956,4734,,7428.0,Was not impressed with the staff.
+1839,1549,,3378.0,Great experience with the location.
+7984,8405,,9177.0,Decent experience with the lobby.
+2861,3969,,3107.0,I found the breakfast to be impressive.
+6443,3699,,5939.0,The pool was average.
+4912,7053,,4656.0,Terrible experience with the pool.
+9014,9147,,2769.0,The breakfast was terrible.
+9016,5125,,3678.0,Was not impressed with the gym.
+1850,1549,,4147.0,Poor experience with the breakfast.
+1339,3651,,4365.0,Horrible experience with the location.
+1855,9981,,1610.0,Really enjoyed the poor pool.
+2367,6464,,2525.0,Really enjoyed the horrible location.
+6978,1360,,8281.0,I found the service to be good.
+5954,9701,,7742.0,Really enjoyed the good amenity.
+3397,8492,,5769.0,The gym was good.
+3398,7837,,4340.0,Really enjoyed the terrible room.
+2887,9698,,6879.0,The gym was horrible.
+8007,7439,,4927.0,Was not impressed with the pool.
+6981,8839,,1647.0,Impressive experience with the location.
+9546,2391,,4147.0,Terrible experience with the service.
+1355,8410,,8596.0,I found the location to be terrible.
+5456,8081,,8617.0,Decent experience with the service.
+9041,7290,,8617.0,Really enjoyed the impressive pool.
+3411,6407,,7428.0,The service was excellent.
+6484,9258,,1610.0,I found the gym to be excellent.
+4437,1933,,2504.0,The amenity was decent.
+7510,2840,,7512.0,Good experience with the lobby.
+4951,5015,,4024.0,Was not impressed with the gym.
+4440,8475,,7675.0,Was not impressed with the location.
+5463,8410,,3107.0,Really enjoyed the fantastic pool.
+8542,3132,,5095.0,Excellent experience with the amenity.
+4453,6570,,8577.0,Poor experience with the gym.
+9061,6650,,2525.0,Was not impressed with the lobby.
+3431,2831,,1513.0,The service was horrible.
+8039,6398,,1610.0,I found the gym to be good.
+3945,1840,,1464.0,Really enjoyed the fantastic amenity.
+9579,3163,,4733.0,Really enjoyed the good breakfast.
+3948,7080,,4781.0,Really enjoyed the horrible gym.
+8556,6337,,1647.0,Was not impressed with the pool.
+9068,1811,,8281.0,Impressive experience with the location.
+3439,9701,,2035.0,Was not impressed with the service.
+7536,8096,,4733.0,Really enjoyed the terrible room.
+7537,1045,,2049.0,Decent experience with the pool.
+8056,5047,,9627.0,Really enjoyed the good breakfast.
+5496,3421,,3096.0,I found the pool to be impressive.
+3960,6003,,4781.0,The gym was decent.
+4475,4196,,9177.0,The view was good.
+8571,9048,,7675.0,Excellent experience with the breakfast.
+1401,6117,,4340.0,Really enjoyed the great service.
+1918,9796,,5346.0,I found the pool to be good.
+5502,9796,,7742.0,Really enjoyed the poor room.
+4482,1851,,6921.0,Fantastic experience with the lobby.
+8068,5186,,4147.0,The service was horrible.
+1925,5448,,5939.0,The room was great.
+8581,6847,,3678.0,Decent experience with the gym.
+8071,5201,,4927.0,Impressive experience with the pool.
+7560,3012,,3670.0,I found the pool to be good.
+9096,2206,,1919.0,The pool was fantastic.
+4489,6570,,2525.0,Really enjoyed the excellent room.
+6535,6946,,3107.0,The pool was poor.
+5517,8081,,5769.0,Really enjoyed the good breakfast.
+2446,6409,,7284.0,Really enjoyed the impressive lobby.
+7058,6156,,6064.0,Was not impressed with the location.
+6548,4302,,3670.0,I found the location to be fantastic.
+1429,5417,,3096.0,I found the service to be poor.
+1428,1823,,4656.0,I found the service to be fantastic.
+8599,7806,,2525.0,Really enjoyed the decent breakfast.
+2457,6753,,5769.0,Was not impressed with the lobby.
+4506,7674,,4857.0,The room was horrible.
+3487,4875,,5939.0,Really enjoyed the great pool.
+8608,5415,,6925.0,I found the location to be great.
+8609,3047,,5095.0,The service was good.
+1442,7044,,3678.0,Really enjoyed the great gym.
+4515,4561,,2769.0,Average experience with the pool.
+7589,5279,,1513.0,Poor experience with the room.
+9126,2889,,4781.0,I found the service to be impressive.
+9127,2468,,2525.0,Good experience with the staff.
+9640,9253,,2049.0,Horrible experience with the lobby.
+8101,3421,,5769.0,Really enjoyed the poor pool.
+6570,6442,,5346.0,The location was impressive.
+8108,2678,,6879.0,Fantastic experience with the view.
+2477,3163,,3107.0,Was not impressed with the view.
+5038,7794,,5994.0,The staff was horrible.
+6061,8839,,3096.0,Poor experience with the location.
+7091,6847,,2769.0,I found the amenity to be average.
+5044,1551,,7704.0,Really enjoyed the horrible breakfast.
+3002,3969,,4656.0,Really enjoyed the decent room.
+3515,7290,,6925.0,Really enjoyed the fantastic gym.
+6082,7180,,2525.0,Was not impressed with the gym.
+5574,5047,,4733.0,Was not impressed with the pool.
+9160,9029,,5994.0,I found the view to be excellent.
+6089,7912,,2504.0,I found the pool to be fantastic.
+7625,1751,,3678.0,Really enjoyed the fantastic gym.
+6091,4106,,2035.0,I found the staff to be horrible.
+9676,8417,,1919.0,Was not impressed with the staff.
+5580,8011,,7428.0,I found the amenity to be poor.
+9682,6734,,4733.0,I found the location to be great.
+2008,4586,,1610.0,Great experience with the location.
+3032,9085,,8617.0,The view was great.
+7643,5001,,1919.0,The amenity was excellent.
+3548,9220,,4857.0,Decent experience with the service.
+8669,6337,,1513.0,Was not impressed with the amenity.
+7646,5859,,6234.0,I found the room to be good.
+4063,7180,,4927.0,Fantastic experience with the breakfast.
+4576,3957,,7428.0,Really enjoyed the poor breakfast.
+2022,6946,,1513.0,Was not impressed with the lobby.
+7655,6898,,4733.0,Really enjoyed the average staff.
+2536,3699,,1647.0,Really enjoyed the poor breakfast.
+9702,5506,,1464.0,Fantastic experience with the view.
+2027,8480,,4733.0,I found the room to be terrible.
+5615,8700,,4365.0,I found the service to be decent.
+8182,4009,,4147.0,Impressive experience with the room.
+2041,7934,,4656.0,Fantastic experience with the service.
+6650,2310,,2525.0,The pool was excellent.
+7164,7798,,5994.0,The service was average.
+4094,1204,,3096.0,Good experience with the view.
